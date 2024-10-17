@@ -8,7 +8,7 @@ package binarysearch1;
  *
  * @author muran
  */import java.util.Scanner;
-public class BINARYsearch1 {
+
 
    
 
